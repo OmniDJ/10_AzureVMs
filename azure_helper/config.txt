@@ -1,0 +1,15 @@
+{
+    "APP_FOLDER": "_VAPO/_azure",
+    "BASE_FOLDER": "Lummetry.AI Dropbox",
+    
+    "AZURE_SUBSCRIPTION_ID": "a93a9b8c-6319-4542-83dd-66c9d10deb04",
+    "AZURE_CLIENT_ID":       "98942f25-4408-4518-9f8b-80127d92c290",
+    "AZURE_CLIENT_SECRET":   "embeddingsftw1",
+    "AZURE_TENANT_ID":       "7709cb19-0ed3-46f3-8c8e-524eb1e6826b",
+    
+    "AZURE_GROUP_NAME":      "cloudifierresource",
+    "AZURE_VM_NAME":         "cfodworker-gpu-ds",
+    "AZURE_VM_USERNAME":     "mlteam",
+    "AZURE_VM_IP":           "13.69.123.200",
+    "AZURE_VM_PASSWORD":     "MLdreamteam20!8"
+}

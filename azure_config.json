@@ -1,0 +1,22 @@
+{
+  "APP_FOLDER": "_VAPO/_azure",
+  "BASE_FOLDER": "Lummetry.AI Dropbox",
+  "AZURE_ACCOUNTS": {
+    "AZ_SM_ACC": {
+      "SUBSCRIPTION_ID": "5edd64aa-bf17-4e28-8eda-62d3503ad778",
+      "CLIENT_ID": "b355a01a-6f24-429e-aed5-32f3c06ed87e",
+      "CLIENT_SECRET": "Embeddingsftw1",
+      "TENANT_ID": "bcd4cc05-7b74-4fbe-a9fa-ba33dfcadb0c",
+      "VIRTUAL_MACHINES": [
+        {
+          "VM_NICKNAME": "SM-GPU-DS-1",
+          "GROUP_NAME": "vaporresource",
+          "VM_NAME": "cfodworkergpu-ds",
+          "VM_USERNAME": "mlteam",
+          "VM_IP": "13.95.132.65",
+          "VM_PASSWORD": "MLdreamteam20!8"
+        }
+      ]
+    }
+  }
+}
